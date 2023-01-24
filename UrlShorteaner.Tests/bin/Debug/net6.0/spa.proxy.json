@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44418",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\svenp\\OneDrive\\Робочий стіл\\UrlShorteaner\\UrlShortener\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}

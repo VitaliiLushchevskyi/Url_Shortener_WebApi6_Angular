@@ -8,7 +8,7 @@ namespace UrlShortener.Services.Implementation
 {
     public class UrlShortenerService : IUrlShortenerService
     {
-        const string safeShortCode = "65464345345234546566786785654345354364547567587686765343546546";
+        const string safeShortCode = "qwertyuiopasdfghjklzxcvbnm1234567890";
         readonly AppDbContext _context;
         public UrlShortenerService(AppDbContext context)
         {
